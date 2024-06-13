@@ -1,0 +1,13 @@
+# Got global "commands", so this toml denotes to a shell-command-style job
+commands = ["echo <ct1><ct2><ct3><ct4><ct5>"]
+
+[params]
+ct1 = 1
+
+[params.product]
+ct4 = ["x"]
+ct5 = ["y", "z"]
+
+[params.zip]
+ct2 = ["a", "b"]
+ct3 = ["c", "d"]  

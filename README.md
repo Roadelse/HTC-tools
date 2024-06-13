@@ -1,2 +1,8 @@
-# HTC-tools
-High-Throughout-Computation tools
+# rdee-paracom
+
+Personal parallel computing toolbox, including:
+
++ HTC/: 
+    + High-Throughout-Computation tools
++ MPI/:
+    + MPI tools
